@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Basic Node.js exercises",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "lint": "eslint test",
